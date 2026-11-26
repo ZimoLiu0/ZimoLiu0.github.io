@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "intercalation-engineering",
+    "field": "2D Materials",
+    "art": "lattice",
+    "title": "Intercalation Engineering of Ferroic Properties in 2D Materials",
+    "summary": "Using molecular and atomic intercalation to control magnetic ordering and switchable polarization in layered materials.",
+    "institution": "USTC",
+    "advisors": "Prof. Changzheng Wu and Prof. Yuqiao Guo",
+    "dates": "Jun 2024 – present",
+    "motivation": "The interlayer space in transition-metal dichalcogenides offers a route to modify symmetry and interfacial coupling. This project examines whether molecular and atomic guests can induce ferroic behavior in layered hosts.",
+    "contributions": ["Grew TaS₂ single crystals and synthesized cobaltocene-intercalated TaS₂. Used structural and magnetic measurements to check intercalation and characterize the resulting materials.", "Proposed site-selective Cu intercalation in TaS₂, synthesized Cu-intercalated samples, performed piezoresponse force microscopy, and used VASP to investigate stable interlayer configurations."],
+    "methods": ["Chemical vapor transport and solvothermal intercalation", "X-ray diffraction, Raman spectroscopy, vibrating-sample magnetometry, and magnetic force microscopy", "Piezoresponse force microscopy and first-principles structural optimization in VASP"],
+    "results": ["The published molecular-intercalation study reports room-temperature ferromagnetism in a family of layered materials.", "In the ongoing Cu-intercalation study, I observed ferroelectric switching and domain writing by piezoresponse force microscopy. Calculations identified two energetically stable interlayer sites. I am exploring how the approach extends to other transition-metal dichalcogenides."],
+    "figures": [{"caption": "Layered host and interlayer guests. Illustrative schematic, not experimental data.", "alt": "Schematic of stacked atomic sheets separated by interlayer guests"}],
+    "publication": "jacs-2026"
+  },
+  {
+    "slug": "in-situ-pld-eis",
+    "field": "Electrochemistry",
+    "art": "electrochemistry",
+    "title": "In Situ PLD-EIS for Oxygen Exchange Kinetics",
+    "summary": "Tracking how PrOₓ surface decoration affects oxygen exchange on LSCF electrodes during thin-film experiments.",
+    "institution": "Westlake University",
+    "advisors": "Prof. Qiyang Lu",
+    "dates": "Jul 2025 – Aug 2025",
+    "motivation": "Surface chemistry influences oxygen exchange at oxide electrodes. Combining pulsed laser deposition and electrochemical impedance spectroscopy makes it possible to monitor electrochemical changes within the deposition chamber.",
+    "contributions": ["Helped build and optimize a PLD system with integrated real-time EIS.", "Measured LSCF electrodes with and without PrOₓ surface modification under anodic and cathodic bias and analyzed concentration-amended activation energies."],
+    "methods": ["In situ pulsed laser deposition with electrochemical impedance spectroscopy", "Biased oxygen-exchange measurements on decorated and undecorated LSCF", "Concentration-amended activation energy analysis"],
+    "results": ["The analysis indicated a lower activation barrier for PrOₓ-decorated LSCF under the conditions studied. Quantitative plots and experimental details can be added when available."],
+    "figures": [{"caption": "Chamber and thin-film geometry. Illustrative schematic, not experimental data.", "alt": "Schematic of a deposition beam, thin film and electrode stack"}]
+  },
+  {
+    "slug": "tem-superlattices",
+    "field": "Data-driven Microscopy",
+    "art": "microscopy",
+    "title": "Machine Learning-Assisted TEM Analysis of Nanocrystal Superlattices",
+    "summary": "Mapping subtle structural variations in TEM images using local Fourier fingerprints and unsupervised learning.",
+    "institution": "Brown University",
+    "advisors": "Prof. Ou Chen",
+    "dates": "Aug 2026 – Oct 2026",
+    "motivation": "Subtle changes in nanocrystal packing can be difficult to distinguish by eye in transmission electron microscopy. Local Fourier analysis provides spatially resolved descriptors for comparing structure across an image.",
+    "contributions": ["Developed and implemented a Python workflow that extracts local TEM image patches, builds FFT-based fingerprints, reduces dimensionality, and clusters the results with Gaussian mixture models."],
+    "methods": ["Transmission electron microscopy image processing", "Local fast Fourier transform fingerprints and dimensionality reduction", "Gaussian mixture clustering and phase-map reconstruction"],
+    "results": ["The workflow produced spatially resolved phase maps for identifying subtle structural variation, phase boundaries, and heterogeneity. The software was registered for copyright at Brown University, and a manuscript is in preparation."],
+    "figures": [{"caption": "Stylized nanocrystal patterns. Illustrative schematic, not a TEM image or analysis output.", "alt": "Two stylized dot lattices with different orientations"}]
+  },
+  {
+    "slug": "quantum-dot-photocatalysis",
+    "field": "Photocatalysis",
+    "art": "photocatalysis",
+    "title": "Single-Atom-Modified Quantum Dots for Coupled Photocatalysis",
+    "summary": "Investigating Au and Pd single-atom sites on CdS/ZnS quantum dots for coupled CO₂ reduction and organic oxidation.",
+    "institution": "Brown University",
+    "advisors": "Prof. Ou Chen",
+    "dates": "Aug 2026 – present",
+    "motivation": "Coupling CO₂ reduction with organic oxidation gives photogenerated electrons and holes separate reaction pathways. This work investigates how isolated metal sites might promote the two half-reactions.",
+    "contributions": ["Synthesized Au- and Pd-single-atom-modified CdS/ZnS quantum dots, assessed photocatalytic activity by gas chromatography, and characterized alcohol oxidation products with NMR spectroscopy."],
+    "methods": ["Synthesis of single-atom-modified CdS/ZnS quantum dots", "Photocatalytic activity measurements and gas chromatography", "NMR spectroscopy for oxidation-product characterization"],
+    "results": ["The roles of Au and Pd in the two half-reactions are under investigation. Performance data and mechanistic conclusions will be added when available."],
+    "figures": [{"caption": "Conceptual quantum-dot surface with isolated sites. Illustrative schematic, not a structural model or experimental data.", "alt": "Illustration of a spherical quantum dot with isolated surface sites"}]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "Zimo Liu",
+  "role": "Chemical Physics Undergraduate",
+  "institution": "University of Science and Technology of China",
+  "intro": "I study how interfaces, interlayer chemistry, and defects shape the properties of materials. My research combines materials synthesis and characterization with computation and data-driven analysis.",
+  "email": "zimoliu@mail.ustc.edu.cn",
+  "github": "https://github.com/ZimoLiu0",
+  "education": {
+    "degree": "B.S. in Chemistry",
+    "school": "School of the Gifted Young",
+    "dates": "Sep 2023 – Jun 2027 (expected)",
+    "details": ["Major in Chemical Physics · Minor in Computer Science", "Lu Jiaxi Talent Program in Chemistry", "Interdisciplinary Talent Program in Precision Chemistry"]
+  },
+  "interests": ["2D ferroic materials", "Interfacial chemistry", "Electrochemical kinetics", "Data-driven microscopy", "Photocatalysis"],
+  "awards": [
+    ["2026", "Chen Jingmin Alumni Memorial Scholarship", "Sole recipient in the School of the Gifted Young"],
+    ["2026", "Rising Star Scholarship", "Top 10 recipient in the School of the Gifted Young"],
+    ["2025", "Excellent Student Scholarship – Bronze", ""],
+    ["2025", "Endeavor Scholarship", ""],
+    ["2025", "Rose Fund Public Affairs Scholarship", ""],
+    ["2023", "Excellent Freshman Scholarship – Gold", ""]
+  ],
+  "funding": ["National Natural Science Foundation of China · Basic Research Project for Young Students", "Intercalation chemistry of two-dimensional topological insulator superlattices · Grant 225B100010 · Sep 2025 – Jun 2027 (expected)"],
+  "teaching": ["General Chemistry · Fall 2025", "Physical Chemistry B · Spring 2026"]
+}
